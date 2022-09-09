@@ -34,7 +34,7 @@ function App() {
                     <li key={el.id}>
                         <span>{el.title}</span>
                         <span>{el.id}</span>
-                        <span>el</span>
+
                     </li>
                 )
             })}
